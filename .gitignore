@@ -1,0 +1,15 @@
+# Secretos -- NUNCA subir esto a GitHub
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+venv/
+.venv/
+
+# Editor
+.vscode/
+.idea/
